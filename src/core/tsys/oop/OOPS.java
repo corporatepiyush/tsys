@@ -31,6 +31,7 @@ public class OOPS {
 		System.out.println(Util.sum(10, 20));
 		System.out.println(Util.sum(10, 20, 30));
 		System.out.println(Util.sum(10, 20, 30, 40));
+		System.out.println(Util.sum(10, 20, 30, 40, 50));
 		
 	}
 }
